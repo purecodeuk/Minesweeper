@@ -1,0 +1,16 @@
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.exe
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.deps.json
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.json
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.dev.json
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.dll
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.pdb
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfo.cs
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.dll
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.pdb
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.genruntimeconfig.cache
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csproj.CopyComplete
+C:\Users\pchowdar\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csprojAssemblyReference.cache
