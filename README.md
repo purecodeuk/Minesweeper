@@ -27,11 +27,11 @@ cd Minesweeper
 
 **Usage**
 
-Build the project:
+1. Build the project:
 
 dotnet build
 
-3. Run the game:
+1. Run the game:
 
 dotnet run
 
